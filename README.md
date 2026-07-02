@@ -221,14 +221,3 @@ A price estimator — input brand, battery, range, get a predicted market price 
 Automated re-scraping on a schedule so the dataset stays current. EV pricing moves fast right now. A static dataset ages faster than most.
 
 Brand tier classification to formalise what the EDA showed intuitively — premium, mass-market, and emerging — so comparisons can be made systematically rather than by eye.
-
----
-
-## Author
-
-Yaswanth — Data Analyst & ML Practitioner, Hyderabad.
-Innomatics Research Labs · AWS Solutions Architect Associate
-
----
-
-*Web scraping is just the start. The value is in knowing what to look for once the data is clean.*
